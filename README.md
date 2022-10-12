@@ -8,7 +8,7 @@ This repo covers the implementations of **[VisualCSE](VisualCSE)** and **[AudioC
 ```bibtex
 @inproceedings{jian-etal-2022-non,
   title={Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings},
-  author={Jian, Yiren and Gao, Chongyang and Vosoughi, Soroush"},
+  author={Jian, Yiren and Gao, Chongyang and Vosoughi, Soroush},
   booktitle={Advances in Neural Information Processing Systems},
   year={2022}
 }
