@@ -1,6 +1,6 @@
 # VisualCSE
 
-This repo covers the implementation of **VisualCSE** in  the following paper:  **Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings** by [Yiren Jian](https://cs.dartmouth.edu/~yirenjian/), [Chongyang Gao](https://gcyzsl.github.io/) and [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/), accepted to NeurIPS 2022.
+This repo covers the implementation of **VisualCSE** in  the following paper:  **[Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings](https://openreview.net/forum?id=ObgXE0EMIqH)** by [Yiren Jian](https://cs.dartmouth.edu/~yirenjian/), [Chongyang Gao](https://gcyzsl.github.io/) and [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/), accepted to NeurIPS 2022.
 
 <img src="overview.png" width="600">
 
